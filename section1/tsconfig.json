@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "outDir": "dist",
-    "strict": true,
-    "moduleDetection": "force",
-    "skipLibCheck": true
+    "target": "ESNext", // 최신 EMS 버전으로 컴파일하겠다는 의미.
+    "module": "ESNext", // 모듈 시스템 설정.
+    "outDir": "dist", // 컴파일 결과로 js 생성된 코드의 위치를 결정.
+    "strict": true, // 엄격한 타입 검사를 활성화.
+    "moduleDetection": "force", // 모든 파일을 전역파일 모듈 취급을 로컬모듈 취급으로 만들어준다.
+    "skipLibCheck": true // 라이브러리 파일의 타입 검사를 건너뛰도록 설정.
   },
-  "include": ["src"]
+  //"type": "module", // 모듈 시스템을 ES 모듈로 설정. Node.js에서 ES 모듈을 사용하려면 package.json에 "type": "module"을 추가해야 함.
+  "include": ["src"] //이 폴더 안에 있는 파일들을 모두 컴파일하겠다는 의미.
 }
