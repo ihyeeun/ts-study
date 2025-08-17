@@ -4,7 +4,7 @@
     "module": "esnext",
     "outDir": "dist",
     "strict": true, // strict가 활성화 되어있기에 하위 옵션들도 자동으로 활성화 된다.
-    "strictNullChecks": false, // null을 엄격하게 검사하겠다는 의미. 즉, TS에서 null값을 null타입 이외 변수에 할당하는 것을 금지할지 허락할지 여부를 결정하는 옵션.
+    // "strictNullChecks": false, // null을 엄격하게 검사하겠다는 의미. 즉, TS에서 null값을 null타입 이외 변수에 할당하는 것을 금지할지 허락할지 여부를 결정하는 옵션.
     "moduleDetection": "force",
     "skipLibCheck": true
   },
