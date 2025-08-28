@@ -1,0 +1,10 @@
+// 컴파일러 옵션 설정
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "CommonJS",
+    "strict": true,
+    "allowJs": true
+  },
+  "include": ["src"]
+}
