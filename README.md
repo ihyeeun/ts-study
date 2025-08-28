@@ -11,5 +11,5 @@
 ### [👉 제네릭 (Click!)](https://github.com/ihyeeun/ts-study/wiki/7%EA%B0%95-%EC%A0%9C%EB%84%A4%EB%A6%AD)
 ### [👉 타입 조작하기 (Click!)](https://github.com/ihyeeun/ts-study/wiki/8%EA%B0%95-%ED%83%80%EC%9E%85-%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0)
 ### [👉 조건부 타입 (Click!)](https://github.com/ihyeeun/ts-study/wiki/9%EA%B0%95-%EC%A1%B0%EA%B1%B4%EB%B6%80-%ED%83%80%EC%9E%85)
-### [👉 Utility Type (Click!)]((https://github.com/ihyeeun/ts-study/wiki/10%EA%B0%95-Utility-Type)
+### [👉 Utility Type (Click!)](https://github.com/ihyeeun/ts-study/wiki/10%EA%B0%95-Utility-Type)
 ### [👉 TS with React (Click!)](https://github.com/ihyeeun/ts-study/wiki/11%EA%B0%95-TS-with-React)
