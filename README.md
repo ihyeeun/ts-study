@@ -1,6 +1,13 @@
 > 인프런 [**한 입 크기로 잘라먹는 타입스크립트**]를 듣고, <br/>
-> 나중에 보기 쉽게 정리한 나만의 위키 !
+> 나중에 보기 쉽게 정리한 나만의 위키 ! <br/>
 > 클릭해서 정리한 내용 보기 !
+
+## 📚 학습 정리 & 기록
+**PR** : 각 학습 주제별로 내가 배운 점, 깨달음, 회고 등을 기록한 히스토리  
+[![PR 바로가기](https://img.shields.io/badge/PR-학습기록(Click!)-a5d6a7?style=for-the-badge&logo=github)](https://github.com/ihyeeun/ts-study/pulls?q=is%3Apr+sort%3Aupdated-desc)
+
+**Wiki** : 강의와 공부 내용을 보기 좋게 정리해둔 위키 페이지  
+[![Wiki 바로가기](https://img.shields.io/badge/Wiki-정리본(Click!)-beige?style=for-the-badge&logo=github)](https://github.com/ihyeeun/ts-study/wiki)
 
 ### [👉 TS 개론 (Click!)](https://github.com/ihyeeun/ts-study/wiki/1%EA%B0%95-TS-%EA%B0%9C%EB%A1%A0)
 ### [👉 TS 기본 (Click!)](https://github.com/ihyeeun/ts-study/wiki/2%EA%B0%95-TS-%EA%B8%B0%EB%B3%B8)
